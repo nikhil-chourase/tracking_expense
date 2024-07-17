@@ -1,8 +1,25 @@
 # tracking_expense
 
-A new Flutter project.
+When running app in vscode etc, 
+step 1- 
+login Screen will appear, click signup, 
 
-## Getting Started
+step 2- 
+after register user on signupscreen, it will take u to login screen, login with same credentials
+
+step 3- 
+after login, the HomeScreen will appear, where ur expenses will be shown,
+
+step 4 - 
+click on add button (floating action button) and add an expense, it will appear on your home screen
+and all the expense's summary is available by clicking on pie chart icon on the top right corner,
+
+also u can sort the expense list by date using arrow on the top right corner.
+
+step 5 - 
+U can edit the expenses by clicking on edit button
+
+
 
 expense screen
 ![expense_tracker1](https://github.com/user-attachments/assets/4a7b0aa9-b76c-4c3d-9331-44a8af10d31a)
